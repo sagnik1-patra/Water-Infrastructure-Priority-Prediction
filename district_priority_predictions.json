@@ -1,0 +1,140 @@
+[
+    {
+        "District": "Amritsar",
+        "Coverage_Percentage": 97.03047225265146,
+        "Gap_Households": 10816,
+        "Priority": "Low Priority"
+    },
+    {
+        "District": "Barnala",
+        "Coverage_Percentage": 75.81661181300208,
+        "Gap_Households": 13667,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Bathinda",
+        "Coverage_Percentage": 65.68835785787792,
+        "Gap_Households": 25673,
+        "Priority": "Medium Priority"
+    },
+    {
+        "District": "Faridkot",
+        "Coverage_Percentage": 70.81104615001867,
+        "Gap_Households": 18772,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Fazilka",
+        "Coverage_Percentage": 68.94935035786428,
+        "Gap_Households": 24902,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Firozpur",
+        "Coverage_Percentage": 70.5829934537478,
+        "Gap_Households": 25749,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Gurdaspur",
+        "Coverage_Percentage": 54.17571608052436,
+        "Gap_Households": 47051,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Hoshiarpur",
+        "Coverage_Percentage": 75.60747663551402,
+        "Gap_Households": 22446,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Jalandhar",
+        "Coverage_Percentage": 74.91370525000822,
+        "Gap_Households": 15262,
+        "Priority": "Medium Priority"
+    },
+    {
+        "District": "Kapurthala",
+        "Coverage_Percentage": 83.21112991163753,
+        "Gap_Households": 13395,
+        "Priority": "Low Priority"
+    },
+    {
+        "District": "Ludhiana",
+        "Coverage_Percentage": 71.55882868665616,
+        "Gap_Households": 29196,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Mansa",
+        "Coverage_Percentage": 69.73937347998113,
+        "Gap_Households": 16673,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Moga",
+        "Coverage_Percentage": 77.19351795327155,
+        "Gap_Households": 16438,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Muktsar",
+        "Coverage_Percentage": 71.18959356556883,
+        "Gap_Households": 21528,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Pathankot",
+        "Coverage_Percentage": 64.34340157426537,
+        "Gap_Households": 20883,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Patiala",
+        "Coverage_Percentage": 79.41653756510625,
+        "Gap_Households": 44775,
+        "Priority": "Low Priority"
+    },
+    {
+        "District": "Rupnagar",
+        "Coverage_Percentage": 89.678433015607,
+        "Gap_Households": 4927,
+        "Priority": "Low Priority"
+    },
+    {
+        "District": "S.A.S. Nagar (Mohali)",
+        "Coverage_Percentage": 91.86788121803812,
+        "Gap_Households": 11195,
+        "Priority": "Low Priority"
+    },
+    {
+        "District": "Sahid Bhagat SinghNagar",
+        "Coverage_Percentage": 68.61907074631698,
+        "Gap_Households": 9692,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Sangrur",
+        "Coverage_Percentage": 79.12742019884877,
+        "Gap_Households": 31910,
+        "Priority": "Low Priority"
+    },
+    {
+        "District": "Sirhind Fatehgarh Sahib",
+        "Coverage_Percentage": 62.31961722488039,
+        "Gap_Households": 19688,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Tarn Taran",
+        "Coverage_Percentage": 50.68669221431462,
+        "Gap_Households": 20718,
+        "Priority": "High Priority"
+    },
+    {
+        "District": "Total",
+        "Coverage_Percentage": 77.91386351717247,
+        "Gap_Households": 465356,
+        "Priority": "Low Priority"
+    }
+]

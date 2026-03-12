@@ -1,0 +1,6 @@
+best_model: Random Forest
+features:
+- Coverage_Percentage
+- Gap_Households
+- ULB_Density
+project: Water Infrastructure Priority Prediction
